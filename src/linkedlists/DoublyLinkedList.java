@@ -1,0 +1,5 @@
+package linkedlists;
+
+class DoublyLinkedList {
+    
+}
